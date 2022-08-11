@@ -3,7 +3,7 @@ repo for Devops Assignment
 
 In order to manually build this docker image, please run below command
 
-Docker build -t webserver .
+docker build -t webserver .
 
 here webserver is docker image name
 
